@@ -1,0 +1,13 @@
+
+.content{
+  display: flex;
+  flex-direction: column;
+  grid-area: c; 
+  background-color: lightskyblue;
+  
+}
+
+.content img{
+  width: 100%;
+}
+

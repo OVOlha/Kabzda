@@ -1,0 +1,24 @@
+.nav{
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  grid-area: n;
+  background-color: hotpink;
+  font-size: 25px;
+  font-weight: 500;
+  padding-top: 20px;
+}
+
+.settings{
+  padding-top: 40px;
+  /* color: white; */
+}
+
+.item {
+  color: white;
+}
+
+.active a {
+  color: white;
+  text-decoration: none;
+}
